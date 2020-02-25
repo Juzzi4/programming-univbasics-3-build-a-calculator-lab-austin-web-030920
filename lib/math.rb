@@ -23,7 +23,9 @@ multiply
 end
 
 def modulo(num1, num2)
-
+divide = num2 / num1
+puts divide
+divide
 end
 
 def square_root(num)
