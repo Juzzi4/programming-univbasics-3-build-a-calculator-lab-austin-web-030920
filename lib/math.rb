@@ -23,7 +23,7 @@ multiply
 end
 
 def modulo(num1, num2)
-divide = num1 / num2
+divide = num1 % num2
 puts divide
 divide
 end
